@@ -1,0 +1,23 @@
+{
+  "name": "bulletin-board",
+  "version": "1.0.0",
+  "description": "bulletin-board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sGurkaran/bulletin-board.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sGurkaran/bulletin-board/issues"
+  },
+  "homepage": "https://github.com/sGurkaran/bulletin-board#readme",
+  "dependencies": {
+    "electron": "^5.0.6"
+  }
+}
